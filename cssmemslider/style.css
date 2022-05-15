@@ -35,7 +35,7 @@ body {
 }
 
 .slider {
-   margin: 20px auto;
+   
 }
 
 
@@ -140,5 +140,31 @@ input[name='slider'] {
 
    .nav_text {
       padding-top: 40px;
+   }
+
+   .text {
+      font-size: 16px;
+   }
+
+   .content {
+      height: 260px;
+   }
+
+   .slide img {
+      width: 300px;
+      height: 260px;
+   }
+
+   .container {
+      width: 300px;
+      height: 500px;
+   }
+
+   .nav_container {
+      width: 300px;
+   }
+
+   .slider {
+      /* margin: 30px 10px; */
    }
 }
